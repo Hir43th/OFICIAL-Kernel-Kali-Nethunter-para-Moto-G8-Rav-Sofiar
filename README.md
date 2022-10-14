@@ -1,12 +1,12 @@
 [OFICIAL] Kernel Kali Nethunter para Moto G8 [Rav / Sofiar]
-<img src="/docs/logo.png" alt="Logo"/>
-
-INTRODUÇÃO:<br/>
-O Kali NetHunter é uma sobreposição de ROM Android que inclui uma robusta plataforma de teste de penetração móvel. A sobreposição inclui um kernel personalizado, um chroot Kali Linux e um aplicativo Android que o acompanha, o que permite uma interação mais fácil com várias ferramentas e ataques de segurança. Além do arsenal de ferramentas de teste de penetração no Kali Linux, o NetHunter também suporta várias classes adicionais, como ataques de teclado HID, ataques BadUSB, ataques Evil AP MANA, ataque sem fio e muito mais. Para obter mais informações sobre as partes móveis que compõem o NetHunter, confira nossa página de componentes do NetHunter. NetHunter é um projeto de código aberto desenvolvido pela Offensive Security e pela comunidade.
+<img src="/docs/logo.png" alt="Logo"/><br/>
 <br/>
-Codenomes: Rav e Sofiar<br/>
-Autor: Hir4eth<br/>
-Versão: 2.0<br/>
+CODENAMES: Rav e Sofiar<br/>
+AUTOR: Hir4eth<br/>
+VERSÃO: 2.0<br/>
+<br/>
+INTRODUÇÃO:<br/>
+O Kali NetHunter é uma sobreposição de ROM Android que inclui uma robusta plataforma de teste de penetração móvel. A sobreposição inclui um kernel personalizado, um chroot Kali Linux e um aplicativo Android que o acompanha, o que permite uma interação mais fácil com várias ferramentas e ataques de segurança. Além do arsenal de ferramentas de teste de penetração no Kali Linux, o NetHunter também suporta várias classes adicionais, como ataques de teclado HID, ataques BadUSB, ataques Evil AP MANA, ataque sem fio e muito mais. Para obter mais informações sobre as partes móveis que compõem o NetHunter, confira nossa página de componentes do NetHunter. NetHunter é um projeto de código aberto desenvolvido pela Offensive Security e pela comunidade.<br/>
 <br/>
 NOTAS:<br/>
 Não sou responsável por dispositivos emparedados, cartões SD mortos, guerra termonuclear ou você ser demitido porque o aplicativo de alarme falhou. Por favor, faça alguma pesquisa se você tiver alguma dúvida sobre os recursos incluídos neste Kernel antes de atualizá-lo! VOCÊ está escolhendo fazer essas modificações, e se você apontar o dedo para mim por estragar seu aparelho, eu vou rir de você.<br/>
