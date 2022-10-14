@@ -1,1 +1,1 @@
-# -OFICIAL-Kali-Nethunter-Kernel-para-Moto-G8-Rav-Sofiar-
+[OFICIAL] Kernel Kali Nethunter para Moto G8 [Rav / Sofiar]
