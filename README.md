@@ -1,7 +1,7 @@
 [OFICIAL] Kernel Kali Nethunter para Moto G8 [Rav / Sofiar]
 <img src="/docs/logo.png" alt="Logo"/>
 
-Codenomes: Rav e Sofiar
+Codenomes: Rav e Sofiar<br/>
 Autor: Hir4eth
 Versão: 2.0
 
