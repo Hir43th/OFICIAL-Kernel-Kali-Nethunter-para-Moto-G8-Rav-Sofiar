@@ -8,9 +8,10 @@ Codenomes: Rav e Sofiar<br/>
 Autor: Hir4eth<br/>
 Versão: 2.0<br/>
 <br/>
-Notas:Não sou responsável por dispositivos emparedados, cartões SD mortos, guerra termonuclear ou você ser demitido porque o aplicativo de alarme falhou. Por favor, faça alguma pesquisa se você tiver alguma dúvida sobre os recursos incluídos neste Kernel antes de atualizá-lo! VOCÊ está escolhendo fazer essas modificações, e se você apontar o dedo para mim por estragar seu aparelho, eu vou rir de você.<br/>
+NOTAS:<br/>
+Não sou responsável por dispositivos emparedados, cartões SD mortos, guerra termonuclear ou você ser demitido porque o aplicativo de alarme falhou. Por favor, faça alguma pesquisa se você tiver alguma dúvida sobre os recursos incluídos neste Kernel antes de atualizá-lo! VOCÊ está escolhendo fazer essas modificações, e se você apontar o dedo para mim por estragar seu aparelho, eu vou rir de você.<br/>
 <br/>
-Recursos:<br/>
+RECURSOS:<br/>
 • Injeção sem fio 802.11 e suporte ao modo AP com placa wifi USB suportada, como TP-Link 722N V 1.0.
 Suporta ataques BadUSB MITM. Conecte seu Nethunter a um PC vítima e tenha seu tráfego retransmitido por ele.
 Contém um conjunto completo de ferramentas Kali Linux, com muitas ferramentas disponíveis através de um sistema de menu simples.
@@ -23,21 +24,20 @@ Suporte a cabo Y USB no kernel do Nethunter - use seu cabo OTG enquanto ainda ca
 • Ataques baseados em USB<br/>
 • SDR e Hack RF não estão funcionando<br/>
 <br/>
-Requisitos:<br/>
+REQUISITOS:<br/>
 • Root Magisk<br/>
 • Nethunter Chroot instalado<br/>
 • TWRP<br/>
 <br/>
-Instalação:<br/>
+INSTALAÇÃO:<br/>
 1. Instale a recuperação oficial do TWRP a partir <a href="https://twrp.me/Devices/">daqui<a/> ou use qualquer outra recuperação suportada que você tenha instalado atualmente.<br/>
 2. Faça um backup de sua boot.img atual.<br/>
 3. Faça o flash do arquivo Nethunter-Kernel-Moto-G8-V2.zip.<br/>
 4. Reinicie seu dispositivo(Primeira inicialização leva um tempo).<br/>
 <br/>
-Bugs:<br/>
+BUGS:<br/>
 • Talvez o dispositivo reinicie em alguns momentos de uso do adaptador wifi TP-Link TL722N-V1 ou TL721N-V1<br/>
 <br/>
 CRÉDITOS:<br/>
-Obrigado pela ajuda😃https://t.me/MrRobin_Ho_Od e toda a comunidade 
-https://t.me/nethunter_kernels
+Obrigado pela ajuda😃<a href="https://t.me/MrRobin_Ho_Od"><a/> e toda a comunidade <a href="https://t.me/nethunter_kernels"><a/>
 
